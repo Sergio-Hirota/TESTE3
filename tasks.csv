@@ -1,0 +1,36 @@
+﻿title,State,CompletedWork,StoryID
+MDC - Audit diagnostic settings for selected resource types - Logic-eastus2-mdc-prod,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - CQ1WESTRSV001,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - vi-speech-dev,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - vi-openai-dev,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - alfabetia-speech,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - ai-uworky,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - ai-cq1-lab-resource,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Cq1-DiskEncryption-asr,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - CQ1WESTRS-hpn-asr-automationaccount,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Cq1-DiskEncryption,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - cq1-automation,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - master (cq1-homolog/master),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - master (cq1-apps/master),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - master (sqlserver-uworky/master),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - master (sqlserver-hml-uworky/master),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Backoffice_GAM (sqlserver-hml-uworky/Backoffice_GAM),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - master (cq1/master),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Expert (sqlserver-hml-uworky/Expert),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Expert_GAM (sqlserver-hml-uworky/Expert_GAM),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Customer (sqlserver-uworky/Customer),Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - vm-eastus2-uworky-talent-hmlVMNic,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-pep-eastus2-stseastus2infraprod-prod-blob,Closed,0.25,3169
+MDC - Audit diagnostic setting for selected resource types - automate-6ef7d736-88f5-4735-95f7-e1ee8f8467e2-eus,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-eastus2-steastus2apphml-hml-file,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-eastus2-steastus2apphml-hml-queue,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-eastus2-steastus2apphml-hml-table,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-eastus2-stseastus2infraprod-prod-file,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-eastus2-stseastus2infraprod-prod-queue,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-eastus2-stseastus2infraprod-prod-table,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nic-pep-eastus2-steastus2apphml-hml-blob,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nsg-uworky-talent-hml,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - nsg-eastus2-gx1-dev,Closed,0.25,3169
+MDC - Audit diagnostic settings for selected resource types - Expert (sqlserver-uworky/Expert),Closed,0.25,3169
+MDC - vm-eastus2-gx1-dev - Turn on CredentialGuard,Closed,1,3169
+MDC - vm-eastus2-gx1-dev - WinVerifyTrust Signature Validation vulnerability Mitigation 2,Closed,1,3169
